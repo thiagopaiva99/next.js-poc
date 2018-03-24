@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start -p 8000"
+    "start": "next start -p 8000",
+    "deploy": "now"
   },
   "dependencies": {
     "next": "^5.0.0",
