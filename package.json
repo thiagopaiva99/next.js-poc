@@ -4,7 +4,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start -p 8000",
-    "deploy": "now"
+    "deploy": "now",
+    "export": "next export"
   },
   "dependencies": {
     "next": "^5.0.0",

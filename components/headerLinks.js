@@ -3,8 +3,8 @@ import Link from 'next/link'
 const getLinks = () => 
     [
         { id: '1', link: '/', content: 'Home'},
-        { id: '2', link: 'about', content: 'About'},
-        { id: '3', link: 'contact', content: 'Contact'}
+        { id: '2', link: '/about', content: 'About'},
+        { id: '3', link: '/contact', content: 'Contact'}
     ]
 
 const HeaderLinks = () => (
